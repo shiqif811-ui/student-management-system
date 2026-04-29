@@ -40,10 +40,14 @@ npm run dev
   - 删除学生：`DELETE /api/students/<id>`
 ## 项目截图
 
+### 登录页面
+
+![登录页面](image/login.png)
+
 ### 学生管理页面
 
-![学生管理页面](docs/images/student.png)
+![学生管理页面](images/student.png)
 
 ### 成绩管理页面
 
-![成绩管理页面](docs/images/grade.png)
+![成绩管理页面](images/grade.png)
