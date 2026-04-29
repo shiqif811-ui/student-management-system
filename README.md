@@ -43,6 +43,9 @@ npm run dev
 ### 登录页面
 
 ![登录页面](image/login.png)
+## 数据概览
+
+![数据概览](image/data_overview.png)
 
 ### 学生管理页面
 
