@@ -38,3 +38,12 @@ npm run dev
   - 获取学生列表：`GET /api/students`
   - 添加学生：`POST /api/students`
   - 删除学生：`DELETE /api/students/<id>`
+## 项目截图
+
+### 学生管理页面
+
+![学生管理页面](docs/images/student.png)
+
+### 成绩管理页面
+
+![成绩管理页面](docs/images/grade.png)
