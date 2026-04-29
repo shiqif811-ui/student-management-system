@@ -52,4 +52,6 @@ npm run dev
 ### 成绩管理页面
 
 ![成绩管理页面](image/grade_management.png)
+### 统计分析页面
 
+![统计分析页面](image/statistic_analysis.png)
