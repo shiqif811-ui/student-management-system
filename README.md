@@ -46,11 +46,7 @@ npm run dev
 ## 数据概览
 
 ![数据概览](image/data_overview.png)
-
 ### 学生管理页面
 
-![学生管理页面](images/student.png)
+![学生管理页面](image/student_management.png)
 
-### 成绩管理页面
-
-![成绩管理页面](images/grade.png)
