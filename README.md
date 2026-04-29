@@ -49,4 +49,7 @@ npm run dev
 ### 学生管理页面
 
 ![学生管理页面](image/student_management.png)
+### 成绩管理页面
+
+![成绩管理页面](image/grade_management.png)
 
